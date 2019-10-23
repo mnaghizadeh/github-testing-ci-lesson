@@ -7,3 +7,5 @@ This library contains notebooks for demonstrator and students for the [Github, T
 I own you now :D
 
 I don't like this part of the exercise!
+
+Eduardo was here!
